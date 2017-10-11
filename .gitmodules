@@ -1,0 +1,3 @@
+[submodule "itch.io-downloader"]
+	path = itch.io-downloader
+	url = https://github.com/GarnetSunset/itch.io-downloader
