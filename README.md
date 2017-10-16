@@ -1,11 +1,11 @@
-# DDLC-Toolkit
-A toolkit for Dan Salvato's DDLC.
+# DDLC-Purist-Mod
+A mod for Dan Salvato's DDLC that adds good routes.
 
 Chrome is required, or you can retool it for firefox, but I'm a lazy bastard.
 
 ## Cloning the repo for noobies
 
-Use the command "git clone --recursive https://github.com/GarnetSunset/DDLC-Toolkit" when cloning please!
+Use the command "git clone --recursive https://github.com/GarnetSunset/DDLC-Purist-Mod" when cloning please!
 
 ## Running it.
 
