@@ -2,6 +2,8 @@
 
 This is the raw .rpy file repository for the Purist Mod translation effort.
 
+If you are pushing files for a new translation, please make sure to make a NEW branch for your particular language.
+
 ## Mod Setup.
 
 Put modified files in \edits\ and then run pushup.bat
